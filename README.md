@@ -4,3 +4,6 @@ Yet another Windoze user who has switched to Linux. Now, I use [Manjaro](https:/
 |:---:|:---:|
 | Manjaro Xfce (for daily Usage) | AntiX Linux Icewm (for Android Development) |
 ## Current Setup on my Laptop
+||
+
+|:---:|
