@@ -6,4 +6,4 @@ Yet another Windoze user who has switched to Linux. Now, I use [Manjaro](https:/
 ## Current Setup on my Laptop (Quad Boot)
 |![Manjaro Desktop](manjaro-cinnamon.png "Manjaro Desktop on my Laptop")|
 |:---:|
-| Manjaro Cinnamon (for daily Usage & Programming) |
+| Manjaro Cinnamon (for Daily Usage & Programming) |
