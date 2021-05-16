@@ -3,3 +3,4 @@ Yet another Windoze user who has switched to Linux. Now, I use [Manjaro](https:/
 | ![Manjaro Desktop](manjaro.png "Manjaro Desktop on my PC") | ![AntiX Linux Desktop](antix-linux.jpg "Antix Linux Desktop on my PC")|
 |:---:|:---:|
 | Manjaro Xfce (for daily Usage) | AntiX Linux Icewm (for Android Development) |
+## Current Setup on my Laptop
