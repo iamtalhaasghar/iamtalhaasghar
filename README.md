@@ -1,4 +1,15 @@
+## Hi there 👋 I'm [Talha Asghar](https://talhaasghar.me) 😀
+
+[![](https://visitor-badge.laobi.icu/badge?page_id=iamtalhaasghar.iamtalhaasghar)](https://github.com/iamtalhaasghar)
+[![](https://img.shields.io/github/followers/iamtalhaasghar?label=Follow&style=social)](https://github.com/iamtalhaasghar)
+<br>
 Linux 🐧 is better than windoze and Manjaro is my favourite Linux Distro.
+<br>
+
+[![](https://github-readme-stats.vercel.app/api?username=iamtalhaasghar&show_icons=true&theme=tokyonight)](https://github.com/iamtalhaasghar) | [![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamtalhaasghar&layout=compact&langs_count=10&hide=tex,roff&theme=tokyonight)](https://github.com/iamtalhaasghar)
+|:---:|:---:|
+
+
 
 ## Distros I have in my PC (Dual Boot)
 | ![Manjaro Desktop](manjaro.png "Manjaro Desktop on my PC") | ![AntiX Linux Desktop](antix-linux.jpg "Antix Linux Desktop on my PC")|
