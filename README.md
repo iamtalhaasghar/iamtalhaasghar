@@ -6,10 +6,10 @@
 Linux 🐧 is better than windoze and Manjaro is my favourite Linux Distro.
 <br>
 
-
+<!-- 
 <a href="https://github.com/iamtalhaasghar">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamtalhaasghar&count_private=true&custom_title=iamtalhaasghar`s Github Stats&show_icons=true&theme=tokyonight" />
-</a>
+</a> -->
 <a href="https://github.com/iamtalhaasghar">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamtalhaasghar&custom_title=iamtalhaasghar`s Top Languages&layout=compact&langs_count=10&hide=tex,roff&theme=tokyonight" />
 </a>
