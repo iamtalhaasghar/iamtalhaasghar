@@ -3,9 +3,9 @@
 [![](https://visitor-badge.laobi.icu/badge?page_id=iamtalhaasghar.iamtalhaasghar)](https://github.com/iamtalhaasghar)
 [![](https://img.shields.io/github/followers/iamtalhaasghar?label=Follow&style=social)](https://github.com/iamtalhaasghar)
 ## Hi there 👋 I'm [Talha Asghar](https://talhaasghar.me) 😀
-### Crafting Code 💻 | Solving Problems 💡 | Constantly Learning 🧠
+### Full-Stack Developer with a passion for technology 💻 | Solving Problems 💡 | Constantly Learning 🧠 
 <br>
-Full-Stack Developer with a passion for technology 💻.
+
 
 Holding a Bachelor's and Master's degree in Computer Science 🎓, I have gained expertise in several programming languages including Python 🐍, JavaScript 🔥, and C++. As a freelance developer, I have honed my skills in delivering innovative and impactful solutions 💥.
 
