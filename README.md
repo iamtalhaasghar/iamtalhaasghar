@@ -3,7 +3,7 @@
 [![](https://visitor-badge.laobi.icu/badge?page_id=iamtalhaasghar.iamtalhaasghar)](https://github.com/iamtalhaasghar)
 [![](https://img.shields.io/github/followers/iamtalhaasghar?label=Follow&style=social)](https://github.com/iamtalhaasghar)
 ## Hi there 👋 I'm [Talha Asghar](https://talhaasghar.me) 😀
-### Full-Stack Developer with a passion for technology 💻 | Solving Problems 💡 | Constantly Learning 🧠 
+### Crafting Code 💻 | Solving Problems 💡 | Constantly Learning 🧠 
 <br>
 
 
