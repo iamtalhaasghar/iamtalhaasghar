@@ -5,13 +5,17 @@
 ## Hi there 👋 I'm [Talha Asghar](https://talhaasghar.me) 😀
 ### Crafting Code 💻 | Solving Problems 💡 | Constantly Learning 🧠
 <br>
-Exploring the world of code 💻 with a passion for problem solving 💡 and a love for learning 🧠.
+Full-Stack Developer with a passion for technology 💻.
 
-As a versatile developer with expertise in Python 🐍, JavaScript 🔥, and Django 💻, I am constantly pushing the boundaries of what I can create and learn. With a background in computer science 💻🧠 and a strong desire to share my knowledge 💡, I have taught programming to my peers and enjoy contributing to open-source projects 🌟.
+Holding a Bachelor's and Master's degree in Computer Science 🎓, I have gained expertise in several programming languages including Python 🐍, JavaScript 🔥, and C++. As a freelance developer, I have honed my skills in delivering innovative and impactful solutions 💥.
 
-From building scalable machine learning models 🤖 to developing dynamic web applications 💻🔥, I am driven to find innovative solutions to complex problems. My experience as a backend developer has honed my skills in data manipulation and optimized algorithm design 📈💥.
+Specializing in Machine Learning 🤖 and Data Science 📈, I have completed Coursera courses such as "Python for Everybody" and "Machine Learning by deeplearning.ai" to stay on top of the latest developments. With a strong foundation in tools such as TensorFlow, Pandas and Numpy, I am able to tackle complex problems with ease 💡.
 
-Join me on my coding journey 🚀 as I explore new technologies and expand my skill set. Let's create amazing things together 💻💥
+A true tech enthusiast, I am always on the lookout for the latest developments in the Metaverse and NFTs. As a privacy advocate, I prefer using Linux and am comfortable working with Terminal tools 🐧💻.
+
+Aside from coding, I have a passion for teaching and have mentored my peers in programming, sharing my knowledge and helping them to reach their full potential 🤓.
+
+Join me in my journey of exploring new technologies and creating impactful solutions 🚀 #FullStackDeveloper #MachineLearning #DataScience #Python #JavaScript #Linux #Freelance #Mentor #Metaverse #NFTs
 <br>
 
 <!-- 
