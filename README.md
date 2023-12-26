@@ -4,7 +4,6 @@
 [![](https://img.shields.io/github/followers/iamtalhaasghar?label=Follow&style=social)](https://github.com/iamtalhaasghar)
 ## Hi there 👋 I'm [Talha Asghar](https://talhaasghar.me) 😀
 ### Crafting Code 💻 | Solving Problems 💡 | Constantly Learning 🧠 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/iamtalhaasghar)
 <br>
 
 
